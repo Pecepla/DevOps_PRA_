@@ -1,1 +1,1 @@
-Sitemap: https://Pecepla.github.io/Project-Lab1/sitemap.xml
+Sitemap: https://Pecepla.github.io/DevOps_PRA_/sitemap.xml
